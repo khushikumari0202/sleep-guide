@@ -27,7 +27,7 @@ Installation
 
 **Clone the repository**
 ```
-git clone [https://github.com/khushikumari0202/sleep-guide]
+git clone (https://github.com/khushikumari0202/sleep-guide)
 # Navigate to the project folder
 cd sleep-guide
 ```
