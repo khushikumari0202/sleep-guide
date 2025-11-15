@@ -42,9 +42,9 @@ npm run dev
 # Open http://localhost:3000 in your browser
 ```
 # Technologies Used
-1 TypeScript
-2 React
-3 Vercel (Deployment)
+- TypeScript
+- React
+- Vercel (Deployment)
 
 Contributing
 Contributions are welcome! Please open issues and pull requests for suggestions or improvements.
