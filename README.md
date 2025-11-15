@@ -1,60 +1,50 @@
-Sleep Guide
-A web application to help users track, improve, and understand their sleep patterns. Visit the live app at sleep-guide.vercel.app.​
+# Sleep Guide
+A web application to help users track, improve, and understand their sleep patterns.
 
-Table of Contents
+# Table of Contents
 Features
-
 Getting Started
-
 Installation
-
 Usage
-
 Technologies Used
-
 Contributing
-
 License
 
-Features
-Personalized sleep tracking and analytics
+# Features
+- Personalized sleep tracking and analytics
+- Tips and resources for better sleep habits
+- Interactive dashboard for visualizing sleep data
+- User authentication and profile management
 
-Tips and resources for better sleep habits
-
-Interactive dashboard for visualizing sleep data
-
-User authentication and profile management
-
-Getting Started
+# Getting Started
 To run the project locally, follow the steps below.
 
-Prerequisites
+**Prerequisites**
 Node.js (v14 or above)
-
 npm or yarn
 
 Installation
-bash
-# Clone the repository
-git clone https://github.com/khushikumari0202/sleep-guide.git
 
+**Clone the repository**
+```
+git clone [https://github.com/khushikumari0202/sleep-guide]
 # Navigate to the project folder
 cd sleep-guide
-
-# Install dependencies
+```
+**Install dependencies**
+```
 npm install
-Usage
-bash
+```
+**Usage**
+```
 # Start the development server
 npm run dev
-
 # Open http://localhost:3000 in your browser
-Technologies Used
-TypeScript
-
-React
-
-Vercel (Deployment)
+```
+# Technologies Used
+1 TypeScript
+2 React
+3 Vercel (Deployment)
 
 Contributing
 Contributions are welcome! Please open issues and pull requests for suggestions or improvements.
